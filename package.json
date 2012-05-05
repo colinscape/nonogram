@@ -12,9 +12,7 @@
     "type": "git",
     "url": "git://github.com/colinscape/nonogram.git"
   },
-  "files": [
-    "./lib"
-  ],
+  "directories": { "lib": "./lib" },
   "main": "./lib/nonogram.js",
   "dependencies": {
     "underscore": "1.3.3",
