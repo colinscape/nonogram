@@ -2,7 +2,7 @@
   "name": "nonogram",
   "description": "Utility to solve nonograms.",
   "version": "0.0.0",
-  "keywords": [ "nonogram", "puzzle", "solver" ]
+  "keywords": [ "nonogram", "puzzle", "solver" ],
   "author": "Colin Ross <colin@colinscape.com> (http://colinscape.com)",
   "repository": {"type": "git", "url": "git://github.com/colinscape/nonogram.git"},
   "main": "./lib/nonogram.js",
