@@ -1,7 +1,7 @@
 {
   "name": "nonogram",
   "description": "Utility to solve nonograms.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [
     "nonogram",
     "puzzle",
